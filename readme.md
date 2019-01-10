@@ -6,3 +6,4 @@
 
 [6 二叉树](http://nbviewer.jupyter.org/github/hengweihe/algorithms-and-datastructure---python/blob/master/6%20二叉树%20.ipynb)
 
+[9.排序](http://nbviewer.jupyter.org/github/hengweihe/algorithms-and-datastructure---python/blob/master/9.算法.ipynb)
